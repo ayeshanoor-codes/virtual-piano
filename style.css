@@ -129,6 +129,9 @@ header .column span{
 
 
 @media screen and (max-width:815px) {
+    body{
+        background-image: none;
+    }
     .wrapper{
         padding: 25px;
     }
@@ -169,6 +172,9 @@ header .column span{
     }
     .piano-keys .white{
         width: 50px;
+    }
+    body{
+        background-image: none;
     }
 
     
